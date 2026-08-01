@@ -1,0 +1,16 @@
+{
+  "name": "guruh-kanal-bot",
+  "version": "1.0.0",
+  "description": "Guruh va kanalga istagancha odam yig'ishda yordam beradigan Telegram bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
